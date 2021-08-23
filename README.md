@@ -60,4 +60,9 @@ ssh ec2-user@<IP-Address>
 sudo docker ps  
 ```
 ![Docker-ps](https://github.com/vidushi-bansal/AWS-Systems-Manager/blob/main/docker-ps.png)  
+3. Checking the stdout file created in S3:
+> Updating yum  
+> Installation docker through yum  
+> Starting docker service  
+> Installation complete  
 ==========================================================================
